@@ -1,0 +1,77 @@
+ server:
+
+
+rent 
+
+
+AWS
+-----------------
+EC2
+EBS
+ELB
+SECURITY GROUPS
+VPC
+
+
+Load balancing
+--
+Load balancer
+
+Auto scaling group
+------------
+scale up/scale down depends on server .
+
+Increase group
+Decrease group
+
+VPC: ,s3,iam
+--------------------
+Iam :
+users, roles(polices) , groups individual users
+
+S3:
+------
+bucket
+
+efs:
+
+vpc: own network
+
+vpc
+subnets
+igw(internet gateway)
+router
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
